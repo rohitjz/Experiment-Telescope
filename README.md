@@ -4,9 +4,10 @@
 
 A sample size calculator built for product teams that actually explains the math. Covers four metric types, teaches core concepts through real analogies, and includes worked case studies so you understand the "why" behind every number.
 
-**Live site:** [rohitjz.github.io/experiment-lab](https://rohitjz.github.io/experiment-lab/) *(update with actual URL)*
+**Live site:** [rohitjz.github.io/experiment-telescope](https://rohitjz.github.io/Experiment-Telescope/)
 
-![Experiment Lab Preview](preview.png)
+<img width="1109" height="1271" alt="image" src="https://github.com/user-attachments/assets/3b4d5487-072a-4b9f-a542-6d174b03c1e7" />
+
 
 ## What It Does
 
